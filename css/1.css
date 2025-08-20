@@ -68,6 +68,12 @@ p {
 	color: #010101; !rgb(200,200,200);
 }
 
+pemph {
+	line-height:24px;
+	margin:25px 0 25px 0;
+	color: #0c6077; !rgb(200,200,200);
+}
+
 
 #sidebar {
 	width:263px;
